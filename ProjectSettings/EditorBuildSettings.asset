@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GitongaScene.unity
+    guid: eb34406b0876749478dc6bfa8b02dc74
   m_configObjects: {}
